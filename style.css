@@ -46,11 +46,11 @@ html,body{
     max-width: 600px;
     border-radius: 15px;
 }
-/* Recepe */
-.recepe{
+/* Recipe */
+.recipe{
     margin-bottom: 1rem;
 }
-.recepe__title{
+.recipe__title{
     font-family: "Young Serif", serif;
     font-weight: 700;
     font-style: normal;
@@ -142,10 +142,10 @@ tr:last-child{
         max-width: 100%;
         border-radius: 0;
     }
-    .recepe{
+    .recipe{
         padding: 2rem;
     }
-    .recepe__title{
+    .recipe__title{
         font-size: 1.7rem;
     }
     /* Preparation */
